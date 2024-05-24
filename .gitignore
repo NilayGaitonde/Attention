@@ -1,0 +1,4 @@
+.DS_Store
+model/model.pt
+data/Reviews.csv
+data/fra.txt
