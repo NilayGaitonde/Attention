@@ -2,3 +2,4 @@
 model/model.pt
 data/Reviews.csv
 data/fra.txt
+wandb/
